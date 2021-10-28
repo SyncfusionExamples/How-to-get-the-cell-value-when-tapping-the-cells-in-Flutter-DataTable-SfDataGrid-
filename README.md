@@ -1,0 +1,1 @@
+# How-to-get-the-cell-value-when-tapping-the-cells-in-Flutter-DataTable-SfDataGrid-
